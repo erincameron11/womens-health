@@ -12,6 +12,7 @@ The dataset for this project can be found on the website Kaggle (` https://www.k
 ### Data Exploration
 The data exploration phase is primarily responsible for loading, subsetting and examining the dataset.
 
+### Conclusion
 I explored the nature of the binary class I am trying to predict (column "Miscarriages" in the data frame) and how this class relates to other data categories. In doing so, it was determined that there are too many missing values within this dataset. It is my recommendation that a different dataset be discovered and used for this project.
 
 Of the 1665 data points in this dataset, there are only about 139 viable rows of information. This is not enough samples to provide a convincing outcome for this project.
